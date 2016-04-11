@@ -9,6 +9,15 @@ body {
   font-family: Arial, sans-serif;
 }
 
+a {
+  color: #737373;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
 img {
   max-width: 100px;
   height: auto;

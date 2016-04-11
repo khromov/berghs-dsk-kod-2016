@@ -4,3 +4,4 @@ $b = "på dig!";
 
 echo $a . $b;
 //Hej på dig!
+?>
