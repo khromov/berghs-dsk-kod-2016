@@ -30,7 +30,7 @@ php -S localhost:8080
 ```
 
 Öppna följande sida i din webbläsare:  
-http://localhost:8080/
+[http://localhost:8080/](http://localhost:8080/)
 
 #### Windows
 
