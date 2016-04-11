@@ -1,17 +1,17 @@
 # berghs-dsk-kod-2016
 Repository för kodexempel till Hantverk II
 
-#### Kom igång
+### Kom igång
 
 Installera Atom:  
 https://atom.io/
 
-Ladda ner paketet:
+Ladda ner paketet:  
 https://github.com/khromov/berghs-dsk-kod-2016/archive/master.zip
 
 Extrahera zip-filen
 
-*Mac*
+#### Mac
 
 Installera homebrew:  
 http://brew.sh/
@@ -32,6 +32,6 @@ php -S localhost:8080
 Öppna följande sida i din webbläsare:  
 http://localhost:8080/
 
-*Windows*
+#### Windows
 
 TODO
