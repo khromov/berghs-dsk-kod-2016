@@ -1,5 +1,5 @@
 <?php
-  //Detta är en kommentar
+  //Detta är en kommentar!
 
   /*
    Detta är en kommentar som sträcker
