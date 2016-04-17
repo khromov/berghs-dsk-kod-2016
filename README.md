@@ -21,33 +21,24 @@ http://brew.sh/
 brew install php70
 ```
 
-Navigera till mappen
+Navigera till mappen där du laddade ner zip-filen, tex:
 
-Kör:
+```
+cd /Users/khromov/Downloads/berghs-dsk-kod-2016
+```
+
+Kör följande kommando för att starta webbservern.
 
 ```
 php -S localhost:8080
 ```
 
-Öppna följande sida i din webbläsare:  
+Öppna följande sida i din webbläsare. Du kommer få tillgång till alla exempel.
 [http://localhost:8080/](http://localhost:8080/)
 
-#### Windows
+Öppna samma mapp som du navigerade till i exemplet ovan (tex `/Users/khromov/Downloads/berghs-dsk-kod-2016` i Atom genom att klicka på
+File > Open folder.
 
-Ladda ner VC14 x64 Thread Safe från:  
-http://windows.php.net/download#php-7.0
+Gå in i mappen `uppgifter` och välj den uppgift du ska jobba med, tex `uppgift-1-namn`.
 
-Följ "Manual Installation" i denna guide:  
-http://www.sitepoint.com/how-to-install-php-on-windows/
-
-(Skippa steg 3 samt 5 i guiden)
-
-Öppna en konsol via shift + högerklick på berghs-dsk-kod-2016-mappen > "Open command window here" eller motsv.
-
-Kör:  
-```
-php -S localhost:8080
-```
-
-Öppna följande sida i din webbläsare:  
-[http://localhost:8080/](http://localhost:8080/)
+Öppna filen `index.php` i Atom och börja redigera! Det finns lite kommentarer som hjälp redan. Fråga om något är otydligt!
