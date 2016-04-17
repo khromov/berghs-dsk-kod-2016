@@ -41,4 +41,6 @@ File > Open folder.
 
 Gå in i mappen `uppgifter` och välj den uppgift du ska jobba med, tex `uppgift-1-namn`.
 
-Öppna filen `index.php` i Atom och börja redigera! Det finns lite kommentarer som hjälp redan. Fråga om något är otydligt!
+Öppna filen `index.php` i mappen `uppgifter` via filträdet i Atom och börja redigera! (tex: `uppgifter/uppgift-1-namn/index.php`)
+
+Det finns lite kommentarer som hjälp redan. Fråga om något är otydligt!
