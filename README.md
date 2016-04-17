@@ -34,4 +34,20 @@ php -S localhost:8080
 
 #### Windows
 
-TODO
+Ladda ner VC14 x64 Thread Safe från:  
+http://windows.php.net/download#php-7.0
+
+Följ "Manual Installation" i denna guide:  
+http://www.sitepoint.com/how-to-install-php-on-windows/
+
+(Skippa steg 3 samt 5 i guiden)
+
+Öppna en konsol via shift + högerklick på berghs-dsk-kod-2016-mappen > "Open command window here" eller motsv.
+
+Kör:  
+```
+php -S localhost:8080
+```
+
+Öppna följande sida i din webbläsare:  
+[http://localhost:8080/](http://localhost:8080/)
