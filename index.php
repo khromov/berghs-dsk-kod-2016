@@ -3,7 +3,7 @@
 <ul>
 <?php
 //Hämta ut alla filer i mappen som slutar med .php
-$files = glob(__DIR__.'/*.php');
+$files = array_merge(glob(__DIR__.'/*.php'), glob(__DIR__.'/*.html'));
 
 //Sortera
 natsort($files);
